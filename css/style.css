@@ -46,7 +46,7 @@ body {
         grid-template-columns: repeat(24, auto);
   }
   .header {
-    padding: 10px;
+    margin-top: 10px;
     -ms-grid-column: 1;
     -ms-grid-column-span: 24;
     grid-column: 1/25;
